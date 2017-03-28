@@ -1,8 +1,21 @@
+Easily convert multiple files from PowerPoint to PDF.
+PowerPoint is required for the script to work.
+Documents are rendered by Microsoft PowerPoint and do not get scrambled (unlike what Preview or other thid party apps might do).
+
+### App Usage:
+1. Download as zip
+2. Uncompress
+3. Run "ppt to pdf.app"
+4. Select all files to convert
+5. Select and authorize PowerPoint to write to your directory
+5. Wait and don't interfere. Can take a few seconds per file...
+6. You will find pdf files with same name as ppt counterparts in the same folder.
+
 本仓库提供了OS X系统下，批量转换doc/ppt文件为pdf的AppleScript脚本
 
 This repository provides AppleScript that could convert doc/ppt to pdf using automator under OS X.
 
-### Usage
+### AppleScript Usage
 
 运行Automator，新建工作流程。
 
